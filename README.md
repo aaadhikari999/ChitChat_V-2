@@ -1,4 +1,4 @@
-# ChitChat_v2.1
+# ChitChat_v2
 > A one to one chat application with Simple and Professional UI desinged in Java.
 
 # Requirements
